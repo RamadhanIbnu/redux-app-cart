@@ -1,0 +1,16 @@
+.card-product{
+    border: 1px solid black;
+    width: 150px;
+    margin: 10px;
+    text-align: center;
+}
+
+.card-container{
+    display: flex;
+    justify-content: center;
+    align-content: space-between;
+}
+
+button{
+    margin: 10px;
+}
