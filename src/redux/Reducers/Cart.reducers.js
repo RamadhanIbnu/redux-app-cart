@@ -1,4 +1,4 @@
-import { BUY, DELETE_CART, DELTE_BUY } from "../Action/Cart.action";
+import { BUY, DELETE_CART } from "../Action/Cart.action";
 
 const initialState ={
     produk: "",
